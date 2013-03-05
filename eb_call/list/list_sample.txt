@@ -1,0 +1,8 @@
+/home/genomon/exome/data/output/Sample01/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample02/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample03/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample04/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample05/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample06/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample07/120803/map_bwa/normal/ga.bam
+/home/genomon/exome/data/output/Sample08/120803/map_bwa/normal/ga.bam
