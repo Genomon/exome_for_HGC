@@ -1,5 +1,5 @@
-#! /bin/sh
-#$ -S /bin/sh
+#! /bin/bash
+#$ -S /bin/bash
 #$ -e ../log
 #$ -o ../log
 #$ -cwd 
